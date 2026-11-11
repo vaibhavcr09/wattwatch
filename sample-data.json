@@ -1,0 +1,845 @@
+{
+  "version": 1,
+  "blocks": [
+    {
+      "id": "a",
+      "name": "Maple House",
+      "residents": 80
+    },
+    {
+      "id": "b",
+      "name": "Cedar House",
+      "residents": 64
+    },
+    {
+      "id": "c",
+      "name": "Willow House",
+      "residents": 72
+    },
+    {
+      "id": "d",
+      "name": "Oak House",
+      "residents": 96
+    }
+  ],
+  "readings": [
+    {
+      "id": "sample-a-0",
+      "blockId": "a",
+      "date": "2026-10-14",
+      "value": 12000,
+      "note": "Starting meter reading"
+    },
+    {
+      "id": "sample-a-1",
+      "blockId": "a",
+      "date": "2026-10-15",
+      "value": 12153.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-2",
+      "blockId": "a",
+      "date": "2026-10-16",
+      "value": 12312.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-3",
+      "blockId": "a",
+      "date": "2026-10-17",
+      "value": 12466.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-4",
+      "blockId": "a",
+      "date": "2026-10-18",
+      "value": 12606,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-5",
+      "blockId": "a",
+      "date": "2026-10-19",
+      "value": 12733.4,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-6",
+      "blockId": "a",
+      "date": "2026-10-20",
+      "value": 12856.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-7",
+      "blockId": "a",
+      "date": "2026-10-21",
+      "value": 12986.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-8",
+      "blockId": "a",
+      "date": "2026-10-22",
+      "value": 13129.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-9",
+      "blockId": "a",
+      "date": "2026-10-23",
+      "value": 13284.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-10",
+      "blockId": "a",
+      "date": "2026-10-24",
+      "value": 13443.3,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-11",
+      "blockId": "a",
+      "date": "2026-10-25",
+      "value": 13594.8,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-12",
+      "blockId": "a",
+      "date": "2026-10-26",
+      "value": 13732.7,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-13",
+      "blockId": "a",
+      "date": "2026-10-27",
+      "value": 13858.8,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-14",
+      "blockId": "a",
+      "date": "2026-10-28",
+      "value": 13966.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-15",
+      "blockId": "a",
+      "date": "2026-10-29",
+      "value": 14081.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-16",
+      "blockId": "a",
+      "date": "2026-10-30",
+      "value": 14210.7,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-17",
+      "blockId": "a",
+      "date": "2026-10-31",
+      "value": 14351.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-18",
+      "blockId": "a",
+      "date": "2026-11-01",
+      "value": 14493.6,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-19",
+      "blockId": "a",
+      "date": "2026-11-02",
+      "value": 14627.4,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-20",
+      "blockId": "a",
+      "date": "2026-11-03",
+      "value": 14747.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-21",
+      "blockId": "a",
+      "date": "2026-11-04",
+      "value": 14856.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-22",
+      "blockId": "a",
+      "date": "2026-11-05",
+      "value": 14964.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-23",
+      "blockId": "a",
+      "date": "2026-11-06",
+      "value": 15081.3,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-24",
+      "blockId": "a",
+      "date": "2026-11-07",
+      "value": 15212.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-25",
+      "blockId": "a",
+      "date": "2026-11-08",
+      "value": 15353.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-26",
+      "blockId": "a",
+      "date": "2026-11-09",
+      "value": 15495.6,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-27",
+      "blockId": "a",
+      "date": "2026-11-10",
+      "value": 15627.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-a-28",
+      "blockId": "a",
+      "date": "2026-11-11",
+      "value": 15745.3,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-0",
+      "blockId": "b",
+      "date": "2026-10-14",
+      "value": 17000,
+      "note": "Starting meter reading"
+    },
+    {
+      "id": "sample-b-1",
+      "blockId": "b",
+      "date": "2026-10-15",
+      "value": 17180.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-2",
+      "blockId": "b",
+      "date": "2026-10-16",
+      "value": 17352.8,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-3",
+      "blockId": "b",
+      "date": "2026-10-17",
+      "value": 17511.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-4",
+      "blockId": "b",
+      "date": "2026-10-18",
+      "value": 17658.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-5",
+      "blockId": "b",
+      "date": "2026-10-19",
+      "value": 17804.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-6",
+      "blockId": "b",
+      "date": "2026-10-20",
+      "value": 17958.8,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-7",
+      "blockId": "b",
+      "date": "2026-10-21",
+      "value": 18127.4,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-8",
+      "blockId": "b",
+      "date": "2026-10-22",
+      "value": 18306.6,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-9",
+      "blockId": "b",
+      "date": "2026-10-23",
+      "value": 18486.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-10",
+      "blockId": "b",
+      "date": "2026-10-24",
+      "value": 18656.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-11",
+      "blockId": "b",
+      "date": "2026-10-25",
+      "value": 18813.3,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-12",
+      "blockId": "b",
+      "date": "2026-10-26",
+      "value": 18959.7,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-13",
+      "blockId": "b",
+      "date": "2026-10-27",
+      "value": 19106.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-14",
+      "blockId": "b",
+      "date": "2026-10-28",
+      "value": 19246.8,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-15",
+      "blockId": "b",
+      "date": "2026-10-29",
+      "value": 19401.4,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-16",
+      "blockId": "b",
+      "date": "2026-10-30",
+      "value": 19565.4,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-17",
+      "blockId": "b",
+      "date": "2026-10-31",
+      "value": 19728.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-18",
+      "blockId": "b",
+      "date": "2026-11-01",
+      "value": 19881,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-19",
+      "blockId": "b",
+      "date": "2026-11-02",
+      "value": 20019.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-20",
+      "blockId": "b",
+      "date": "2026-11-03",
+      "value": 20149.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-21",
+      "blockId": "b",
+      "date": "2026-11-04",
+      "value": 20280.6,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-22",
+      "blockId": "b",
+      "date": "2026-11-05",
+      "value": 20423.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-23",
+      "blockId": "b",
+      "date": "2026-11-06",
+      "value": 20579.6,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-24",
+      "blockId": "b",
+      "date": "2026-11-07",
+      "value": 20744.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-25",
+      "blockId": "b",
+      "date": "2026-11-08",
+      "value": 20906.3,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-26",
+      "blockId": "b",
+      "date": "2026-11-09",
+      "value": 21056.7,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-27",
+      "blockId": "b",
+      "date": "2026-11-10",
+      "value": 21193.4,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-b-28",
+      "blockId": "b",
+      "date": "2026-11-11",
+      "value": 21322.6,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-0",
+      "blockId": "c",
+      "date": "2026-10-14",
+      "value": 22000,
+      "note": "Starting meter reading"
+    },
+    {
+      "id": "sample-c-1",
+      "blockId": "c",
+      "date": "2026-10-15",
+      "value": 22191,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-2",
+      "blockId": "c",
+      "date": "2026-10-16",
+      "value": 22368,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-3",
+      "blockId": "c",
+      "date": "2026-10-17",
+      "value": 22535.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-4",
+      "blockId": "c",
+      "date": "2026-10-18",
+      "value": 22705,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-5",
+      "blockId": "c",
+      "date": "2026-10-19",
+      "value": 22885,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-6",
+      "blockId": "c",
+      "date": "2026-10-20",
+      "value": 23078.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-7",
+      "blockId": "c",
+      "date": "2026-10-21",
+      "value": 23281.3,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-8",
+      "blockId": "c",
+      "date": "2026-10-22",
+      "value": 23481.7,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-9",
+      "blockId": "c",
+      "date": "2026-10-23",
+      "value": 23670.7,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-10",
+      "blockId": "c",
+      "date": "2026-10-24",
+      "value": 23845.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-11",
+      "blockId": "c",
+      "date": "2026-10-25",
+      "value": 24013.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-12",
+      "blockId": "c",
+      "date": "2026-10-26",
+      "value": 24183.4,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-13",
+      "blockId": "c",
+      "date": "2026-10-27",
+      "value": 24365.4,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-14",
+      "blockId": "c",
+      "date": "2026-10-28",
+      "value": 24545.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-15",
+      "blockId": "c",
+      "date": "2026-10-29",
+      "value": 24731.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-16",
+      "blockId": "c",
+      "date": "2026-10-30",
+      "value": 24915.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-17",
+      "blockId": "c",
+      "date": "2026-10-31",
+      "value": 25086,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-18",
+      "blockId": "c",
+      "date": "2026-11-01",
+      "value": 25243.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-19",
+      "blockId": "c",
+      "date": "2026-11-02",
+      "value": 25394.6,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-20",
+      "blockId": "c",
+      "date": "2026-11-03",
+      "value": 25550.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-21",
+      "blockId": "c",
+      "date": "2026-11-04",
+      "value": 25718.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-22",
+      "blockId": "c",
+      "date": "2026-11-05",
+      "value": 25899.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-23",
+      "blockId": "c",
+      "date": "2026-11-06",
+      "value": 26086.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-24",
+      "blockId": "c",
+      "date": "2026-11-07",
+      "value": 26268.3,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-25",
+      "blockId": "c",
+      "date": "2026-11-08",
+      "value": 26437.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-26",
+      "blockId": "c",
+      "date": "2026-11-09",
+      "value": 26593.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-27",
+      "blockId": "c",
+      "date": "2026-11-10",
+      "value": 26744.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-c-28",
+      "blockId": "c",
+      "date": "2026-11-11",
+      "value": 26901.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-0",
+      "blockId": "d",
+      "date": "2026-10-14",
+      "value": 27000,
+      "note": "Starting meter reading"
+    },
+    {
+      "id": "sample-d-1",
+      "blockId": "d",
+      "date": "2026-10-15",
+      "value": 27196,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-2",
+      "blockId": "d",
+      "date": "2026-10-16",
+      "value": 27385.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-3",
+      "blockId": "d",
+      "date": "2026-10-17",
+      "value": 27578.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-4",
+      "blockId": "d",
+      "date": "2026-10-18",
+      "value": 27783.7,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-5",
+      "blockId": "d",
+      "date": "2026-10-19",
+      "value": 28002.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-6",
+      "blockId": "d",
+      "date": "2026-10-20",
+      "value": 28227.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-7",
+      "blockId": "d",
+      "date": "2026-10-21",
+      "value": 28447.7,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-8",
+      "blockId": "d",
+      "date": "2026-10-22",
+      "value": 28655.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-9",
+      "blockId": "d",
+      "date": "2026-10-23",
+      "value": 28849.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-10",
+      "blockId": "d",
+      "date": "2026-10-24",
+      "value": 29038.5,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-11",
+      "blockId": "d",
+      "date": "2026-10-25",
+      "value": 29233,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-12",
+      "blockId": "d",
+      "date": "2026-10-26",
+      "value": 29440.6,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-13",
+      "blockId": "d",
+      "date": "2026-10-27",
+      "value": 29660.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-14",
+      "blockId": "d",
+      "date": "2026-10-28",
+      "value": 29869.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-15",
+      "blockId": "d",
+      "date": "2026-10-29",
+      "value": 30072.6,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-16",
+      "blockId": "d",
+      "date": "2026-10-30",
+      "value": 30261.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-17",
+      "blockId": "d",
+      "date": "2026-10-31",
+      "value": 30438.9,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-18",
+      "blockId": "d",
+      "date": "2026-11-01",
+      "value": 30612,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-19",
+      "blockId": "d",
+      "date": "2026-11-02",
+      "value": 30792.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-20",
+      "blockId": "d",
+      "date": "2026-11-03",
+      "value": 30985.8,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-21",
+      "blockId": "d",
+      "date": "2026-11-04",
+      "value": 31191.4,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-22",
+      "blockId": "d",
+      "date": "2026-11-05",
+      "value": 31400.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-23",
+      "blockId": "d",
+      "date": "2026-11-06",
+      "value": 31601.1,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-24",
+      "blockId": "d",
+      "date": "2026-11-07",
+      "value": 31788.4,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-25",
+      "blockId": "d",
+      "date": "2026-11-08",
+      "value": 31964.2,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-26",
+      "blockId": "d",
+      "date": "2026-11-09",
+      "value": 32137.7,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-27",
+      "blockId": "d",
+      "date": "2026-11-10",
+      "value": 32319.6,
+      "note": "Sample reading"
+    },
+    {
+      "id": "sample-d-28",
+      "blockId": "d",
+      "date": "2026-11-11",
+      "value": 32515.4,
+      "note": "Sample reading"
+    }
+  ],
+  "settings": {
+    "tariff": 8,
+    "target": 700,
+    "carbon": 0.7
+  },
+  "demo": true
+}
